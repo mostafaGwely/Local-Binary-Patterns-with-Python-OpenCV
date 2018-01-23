@@ -1,3 +1,6 @@
+#more details in  this presentaion maded by my team ^_^ 
+  https://prezi.com/view/1GwwxEvQGzgJenJvOFQW/
+
 # Local-Binary-Patterns-with-Python-OpenCV
 
 #tutorial video 
