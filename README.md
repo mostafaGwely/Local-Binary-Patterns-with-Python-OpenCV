@@ -1,9 +1,10 @@
-#more details in  this presentaion maded by my team ^_^ 
-  https://prezi.com/view/1GwwxEvQGzgJenJvOFQW/
+## details in [this](https://prezi.com/view/1GwwxEvQGzgJenJvOFQW/) presentaion
+  
 
-# Local-Binary-Patterns-with-Python-OpenCV
+### Local-Binary-Patterns-with-Python-OpenCV
 
-#tutorial video 
-  https://youtu.be/6jQX9N5AUh0
+### [tutorial video](https://youtu.be/6jQX9N5AUh0)
 
-python recognize.py -t train -e test 
+### run 
+`python recognize.py -t train -e test `
+
